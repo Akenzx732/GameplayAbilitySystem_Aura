@@ -1,4 +1,9 @@
 // Copyright Anthony Kenny LLC
 
-#include "AuraAttributeSet.h"
+#include "AbilitySystem/AuraAttributeSet.h"
+
+UAuraAttributeSet::UAuraAttributeSet()
+{
+	
+}
 
